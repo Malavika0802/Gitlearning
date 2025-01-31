@@ -6,3 +6,5 @@ git add -A
 git commit -m"commit message"
 
 now we need to add it to remote repository 
+git remote add remote_name remote_path(for adding remote)
+git push remote_name branch_name(master/build)
