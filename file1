@@ -1,0 +1,6 @@
+hai this is git folder
+there is basically 3 command
+git init
+git status
+git add -A 
+git commit -m"commit message"
