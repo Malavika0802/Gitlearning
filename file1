@@ -11,3 +11,11 @@ git push remote_name branch_name(master/build)
 
 
 now we added this to git hub
+
+git branch
+git checkout
+
+
+if get a link of github  then 
+
+git clone path
